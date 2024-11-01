@@ -8,5 +8,5 @@
 <p>Bukti Pengerjaan:</p>
 <p>
   <img src="https://github.com/user-attachments/assets/26463937-52b0-4cd5-9252-666b78a51595" alt="Login" width="200" />
-  <img src="https://github.com/user-attachments/assets/b7dceed2-09e6-4400-9a54-18805dbf12b2" alt="Login" width="400" />
+  <img src="https://github.com/user-attachments/assets/d66baf71-a626-4c27-b298-0f404a055dee" alt="Login" width="400" />
 </p>
